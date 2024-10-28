@@ -1,0 +1,47 @@
+﻿<Window x:Class="passiveEnglishVocab.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:passiveEnglishVocab"
+        mc:Ignorable="d"
+        Title="Passive Vocabulary Trainer" Height="300" Width="300" Background="DeepSkyBlue" ResizeMode="CanMinimize">
+    <Grid>
+        <Button x:Name="startButton" Content="Start Notifications" HorizontalAlignment="Center" VerticalAlignment="Top" Width="100" Click="Start_Button_Click" Background="Green" Margin="0,199,0,0"/>
+        <Button x:Name="stopButton" Content="Stop Notifications" HorizontalAlignment="Center" VerticalAlignment="Top" Width="100" Click="Stop_Button_Click" Background="Red" Opacity="0.6" Margin="0,229,0,0" IsEnabled="False"/>
+        <Button Content="Choose Vocabulary set" HorizontalAlignment="Center" Margin="0,19,0,0" VerticalAlignment="Top" Background="Orange" Click="Button_Click"/>
+        <Label x:Name="vocabPathLabel" Background="DodgerBlue" Content="Path" HorizontalAlignment="Center" Margin="0,39,0,0" VerticalAlignment="Top" FontSize="12" MaxWidth="300" Height="25"/>
+
+        <Label Content="Interval(sec)" HorizontalAlignment="Center" Margin="0,83,0,0" VerticalAlignment="Top" FontSize="11" Width="68" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="intervalTextBox" 
+         HorizontalAlignment="Center" 
+         Margin="0,105,0,0" 
+         TextWrapping="Wrap" 
+         Text="10" 
+         VerticalAlignment="Top" 
+         Width="68" 
+         TextAlignment="Center" 
+         TextChanged="intervalTextBox_TextChanged" 
+         PreviewTextInput="intervalTextBox_PreviewTextInput" 
+         PreviewKeyDown="intervalTextBox_PreviewKeyDown" 
+         Background="AliceBlue"/>
+        <Label Content="Learning Mode" HorizontalAlignment="Center" Margin="0,135,0,0" VerticalAlignment="Top" FontSize="11" Width="124" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        <ComboBox x:Name="learningModeComboBox"
+          HorizontalAlignment="Center" 
+          VerticalAlignment="Top" 
+          Width="68" 
+          Margin="0,155,0,0" 
+          Background="AliceBlue" 
+          FontSize="11" 
+          SelectedIndex="0"
+          SelectionChanged="learningModeComboBox_SelectionChanged">
+            <ComboBoxItem Content="1" />
+            <ComboBoxItem Content="2" />
+            <ComboBoxItem Content="3" />
+        </ComboBox>
+
+
+
+
+    </Grid>
+</Window>

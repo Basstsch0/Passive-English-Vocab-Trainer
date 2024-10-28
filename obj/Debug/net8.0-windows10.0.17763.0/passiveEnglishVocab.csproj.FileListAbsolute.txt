@@ -1,0 +1,50 @@
+C:\Users\basti\OneDrive - Technische Hochschule Nürnberg Georg Simon Ohm\Programme\passiveEnglishVocab\bin\Debug\net8.0-windows10.0.17763.0\passiveEnglishVocab.exe
+C:\Users\basti\OneDrive - Technische Hochschule Nürnberg Georg Simon Ohm\Programme\passiveEnglishVocab\bin\Debug\net8.0-windows10.0.17763.0\passiveEnglishVocab.deps.json
+C:\Users\basti\OneDrive - Technische Hochschule Nürnberg Georg Simon Ohm\Programme\passiveEnglishVocab\bin\Debug\net8.0-windows10.0.17763.0\passiveEnglishVocab.runtimeconfig.json
+C:\Users\basti\OneDrive - Technische Hochschule Nürnberg Georg Simon Ohm\Programme\passiveEnglishVocab\bin\Debug\net8.0-windows10.0.17763.0\passiveEnglishVocab.dll
+C:\Users\basti\OneDrive - Technische Hochschule Nürnberg Georg Simon Ohm\Programme\passiveEnglishVocab\bin\Debug\net8.0-windows10.0.17763.0\passiveEnglishVocab.pdb
+C:\Users\basti\OneDrive - Technische Hochschule Nürnberg Georg Simon Ohm\Programme\passiveEnglishVocab\bin\Debug\net8.0-windows10.0.17763.0\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\basti\OneDrive - Technische Hochschule Nürnberg Georg Simon Ohm\Programme\passiveEnglishVocab\bin\Debug\net8.0-windows10.0.17763.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\basti\OneDrive - Technische Hochschule Nürnberg Georg Simon Ohm\Programme\passiveEnglishVocab\bin\Debug\net8.0-windows10.0.17763.0\WinRT.Runtime.dll
+C:\Users\basti\OneDrive - Technische Hochschule Nürnberg Georg Simon Ohm\Programme\passiveEnglishVocab\obj\Debug\net8.0-windows10.0.17763.0\passiveEnglishVocab.csproj.AssemblyReference.cache
+C:\Users\basti\OneDrive - Technische Hochschule Nürnberg Georg Simon Ohm\Programme\passiveEnglishVocab\obj\Debug\net8.0-windows10.0.17763.0\MainWindow.g.cs
+C:\Users\basti\OneDrive - Technische Hochschule Nürnberg Georg Simon Ohm\Programme\passiveEnglishVocab\obj\Debug\net8.0-windows10.0.17763.0\App.g.cs
+C:\Users\basti\OneDrive - Technische Hochschule Nürnberg Georg Simon Ohm\Programme\passiveEnglishVocab\obj\Debug\net8.0-windows10.0.17763.0\passiveEnglishVocab_MarkupCompile.cache
+C:\Users\basti\OneDrive - Technische Hochschule Nürnberg Georg Simon Ohm\Programme\passiveEnglishVocab\obj\Debug\net8.0-windows10.0.17763.0\passiveEnglishVocab_MarkupCompile.lref
+C:\Users\basti\OneDrive - Technische Hochschule Nürnberg Georg Simon Ohm\Programme\passiveEnglishVocab\obj\Debug\net8.0-windows10.0.17763.0\MainWindow.baml
+C:\Users\basti\OneDrive - Technische Hochschule Nürnberg Georg Simon Ohm\Programme\passiveEnglishVocab\obj\Debug\net8.0-windows10.0.17763.0\passiveEnglishVocab.g.resources
+C:\Users\basti\OneDrive - Technische Hochschule Nürnberg Georg Simon Ohm\Programme\passiveEnglishVocab\obj\Debug\net8.0-windows10.0.17763.0\passiveEnglishVocab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basti\OneDrive - Technische Hochschule Nürnberg Georg Simon Ohm\Programme\passiveEnglishVocab\obj\Debug\net8.0-windows10.0.17763.0\passiveEnglishVocab.AssemblyInfoInputs.cache
+C:\Users\basti\OneDrive - Technische Hochschule Nürnberg Georg Simon Ohm\Programme\passiveEnglishVocab\obj\Debug\net8.0-windows10.0.17763.0\passiveEnglishVocab.AssemblyInfo.cs
+C:\Users\basti\OneDrive - Technische Hochschule Nürnberg Georg Simon Ohm\Programme\passiveEnglishVocab\obj\Debug\net8.0-windows10.0.17763.0\passiveEnglishVocab.csproj.CoreCompileInputs.cache
+C:\Users\basti\OneDrive - Technische Hochschule Nürnberg Georg Simon Ohm\Programme\passiveEnglishVocab\obj\Debug\net8.0-windows10.0.17763.0\passiveE.C931AC02.Up2Date
+C:\Users\basti\OneDrive - Technische Hochschule Nürnberg Georg Simon Ohm\Programme\passiveEnglishVocab\obj\Debug\net8.0-windows10.0.17763.0\passiveEnglishVocab.dll
+C:\Users\basti\OneDrive - Technische Hochschule Nürnberg Georg Simon Ohm\Programme\passiveEnglishVocab\obj\Debug\net8.0-windows10.0.17763.0\refint\passiveEnglishVocab.dll
+C:\Users\basti\OneDrive - Technische Hochschule Nürnberg Georg Simon Ohm\Programme\passiveEnglishVocab\obj\Debug\net8.0-windows10.0.17763.0\passiveEnglishVocab.pdb
+C:\Users\basti\OneDrive - Technische Hochschule Nürnberg Georg Simon Ohm\Programme\passiveEnglishVocab\obj\Debug\net8.0-windows10.0.17763.0\passiveEnglishVocab.genruntimeconfig.cache
+C:\Users\basti\OneDrive - Technische Hochschule Nürnberg Georg Simon Ohm\Programme\passiveEnglishVocab\obj\Debug\net8.0-windows10.0.17763.0\ref\passiveEnglishVocab.dll
+D:\Bastian Wiesner\Own_Programs\passiveEnglishVocab\bin\Debug\net8.0-windows10.0.17763.0\passiveEnglishVocab.exe
+D:\Bastian Wiesner\Own_Programs\passiveEnglishVocab\bin\Debug\net8.0-windows10.0.17763.0\passiveEnglishVocab.deps.json
+D:\Bastian Wiesner\Own_Programs\passiveEnglishVocab\bin\Debug\net8.0-windows10.0.17763.0\passiveEnglishVocab.runtimeconfig.json
+D:\Bastian Wiesner\Own_Programs\passiveEnglishVocab\bin\Debug\net8.0-windows10.0.17763.0\passiveEnglishVocab.dll
+D:\Bastian Wiesner\Own_Programs\passiveEnglishVocab\bin\Debug\net8.0-windows10.0.17763.0\passiveEnglishVocab.pdb
+D:\Bastian Wiesner\Own_Programs\passiveEnglishVocab\bin\Debug\net8.0-windows10.0.17763.0\Microsoft.Toolkit.Uwp.Notifications.dll
+D:\Bastian Wiesner\Own_Programs\passiveEnglishVocab\bin\Debug\net8.0-windows10.0.17763.0\Microsoft.Windows.SDK.NET.dll
+D:\Bastian Wiesner\Own_Programs\passiveEnglishVocab\bin\Debug\net8.0-windows10.0.17763.0\WinRT.Runtime.dll
+D:\Bastian Wiesner\Own_Programs\passiveEnglishVocab\obj\Debug\net8.0-windows10.0.17763.0\passiveEnglishVocab.csproj.AssemblyReference.cache
+D:\Bastian Wiesner\Own_Programs\passiveEnglishVocab\obj\Debug\net8.0-windows10.0.17763.0\MainWindow.g.cs
+D:\Bastian Wiesner\Own_Programs\passiveEnglishVocab\obj\Debug\net8.0-windows10.0.17763.0\App.g.cs
+D:\Bastian Wiesner\Own_Programs\passiveEnglishVocab\obj\Debug\net8.0-windows10.0.17763.0\passiveEnglishVocab_MarkupCompile.cache
+D:\Bastian Wiesner\Own_Programs\passiveEnglishVocab\obj\Debug\net8.0-windows10.0.17763.0\passiveEnglishVocab_MarkupCompile.lref
+D:\Bastian Wiesner\Own_Programs\passiveEnglishVocab\obj\Debug\net8.0-windows10.0.17763.0\MainWindow.baml
+D:\Bastian Wiesner\Own_Programs\passiveEnglishVocab\obj\Debug\net8.0-windows10.0.17763.0\passiveEnglishVocab.g.resources
+D:\Bastian Wiesner\Own_Programs\passiveEnglishVocab\obj\Debug\net8.0-windows10.0.17763.0\passiveEnglishVocab.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bastian Wiesner\Own_Programs\passiveEnglishVocab\obj\Debug\net8.0-windows10.0.17763.0\passiveEnglishVocab.AssemblyInfoInputs.cache
+D:\Bastian Wiesner\Own_Programs\passiveEnglishVocab\obj\Debug\net8.0-windows10.0.17763.0\passiveEnglishVocab.AssemblyInfo.cs
+D:\Bastian Wiesner\Own_Programs\passiveEnglishVocab\obj\Debug\net8.0-windows10.0.17763.0\passiveEnglishVocab.csproj.CoreCompileInputs.cache
+D:\Bastian Wiesner\Own_Programs\passiveEnglishVocab\obj\Debug\net8.0-windows10.0.17763.0\passiveE.C931AC02.Up2Date
+D:\Bastian Wiesner\Own_Programs\passiveEnglishVocab\obj\Debug\net8.0-windows10.0.17763.0\passiveEnglishVocab.dll
+D:\Bastian Wiesner\Own_Programs\passiveEnglishVocab\obj\Debug\net8.0-windows10.0.17763.0\refint\passiveEnglishVocab.dll
+D:\Bastian Wiesner\Own_Programs\passiveEnglishVocab\obj\Debug\net8.0-windows10.0.17763.0\passiveEnglishVocab.pdb
+D:\Bastian Wiesner\Own_Programs\passiveEnglishVocab\obj\Debug\net8.0-windows10.0.17763.0\passiveEnglishVocab.genruntimeconfig.cache
+D:\Bastian Wiesner\Own_Programs\passiveEnglishVocab\obj\Debug\net8.0-windows10.0.17763.0\ref\passiveEnglishVocab.dll
